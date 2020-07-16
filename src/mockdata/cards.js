@@ -57,7 +57,7 @@ export const mockCards = [
     countAccomplishedCards: 95,
     countSoldBadges: 90,
     drawBeginDate: '2020/07/01',
-    drawEndDate: '2020/07/03',
+    drawEndDate: '2020/07/31',
     practiceBeginDate: '2020/07/01',
     practiceEndDate: '2020/08/31',
     tasks: [
@@ -100,7 +100,7 @@ export const mockCards = [
     countSoldBadges: 8,
     drawBeginDate: '2020/07/01',
     drawEndDate: '2020/07/03',
-    practiceBeginDate: '2020/07/01',
+    practiceBeginDate: '2020/07/31',
     practiceEndDate: '2020/08/31',
     tasks: [
       {

@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme) => ({
     marginTop: theme.spacing(20),
   },
   bg: {
-    width: '2000px',
+    width: '100vw',
     marginTop: theme.spacing(20),
     paddingBottom: theme.spacing(20),
     backgroundColor: '#ec594e',
