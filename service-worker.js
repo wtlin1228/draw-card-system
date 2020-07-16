@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/draw-card-system/precache-manifest.10e2f92d9b8cf9860c424e44db641277.js"
+  "/draw-card-system/precache-manifest.0d8ddf31615846572409eabafd427d65.js"
 );
 
 self.addEventListener('message', (event) => {

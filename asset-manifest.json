@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/draw-card-system/static/js/main.0bcf6277.chunk.js",
-    "main.js.map": "/draw-card-system/static/js/main.0bcf6277.chunk.js.map",
+    "main.js": "/draw-card-system/static/js/main.898d7012.chunk.js",
+    "main.js.map": "/draw-card-system/static/js/main.898d7012.chunk.js.map",
     "runtime-main.js": "/draw-card-system/static/js/runtime-main.d29177d2.js",
     "runtime-main.js.map": "/draw-card-system/static/js/runtime-main.d29177d2.js.map",
     "static/js/2.05dfd889.chunk.js": "/draw-card-system/static/js/2.05dfd889.chunk.js",
     "static/js/2.05dfd889.chunk.js.map": "/draw-card-system/static/js/2.05dfd889.chunk.js.map",
     "index.html": "/draw-card-system/index.html",
-    "precache-manifest.10e2f92d9b8cf9860c424e44db641277.js": "/draw-card-system/precache-manifest.10e2f92d9b8cf9860c424e44db641277.js",
+    "precache-manifest.0d8ddf31615846572409eabafd427d65.js": "/draw-card-system/precache-manifest.0d8ddf31615846572409eabafd427d65.js",
     "service-worker.js": "/draw-card-system/service-worker.js",
     "static/js/2.05dfd889.chunk.js.LICENSE.txt": "/draw-card-system/static/js/2.05dfd889.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d29177d2.js",
     "static/js/2.05dfd889.chunk.js",
-    "static/js/main.0bcf6277.chunk.js"
+    "static/js/main.898d7012.chunk.js"
   ]
 }

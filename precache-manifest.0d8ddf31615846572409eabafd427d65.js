@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89099a17fc642dfe8cc24d75518adc7c",
+    "revision": "c3240f08652142ce80248461bb96cd69",
     "url": "/draw-card-system/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/draw-card-system/static/js/2.05dfd889.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce677f3c64a9b3b25886",
-    "url": "/draw-card-system/static/js/main.0bcf6277.chunk.js"
+    "revision": "787ebee1c6d574578ab5",
+    "url": "/draw-card-system/static/js/main.898d7012.chunk.js"
   },
   {
     "revision": "db2191901faa3660c117",
